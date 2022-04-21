@@ -35,6 +35,7 @@ cd SapoAlimenticioDjangoRest
 
 ## 🎲 Endpoints
 http://127.0.0.1:8000/alimentacao
+
 http://127.0.0.1:8000/importAlimentacao
 
 ## 🎲 Algumas considerações
